@@ -122,6 +122,5 @@ step 0我们已经收集到了一些可用的网站,现在我们要使用这些�
     ├── get_lxb_sources.js
     └── util.js
 ```
-- `app.js`是入口文件
-- `config`下面放的是攻击的配置信息,三个文件,两个环境,一个`debug`环境一个`production`环境
+
 
